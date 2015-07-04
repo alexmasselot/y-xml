@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Masselot <alexandre.masselot@gmail.com> (http://alexandre-masselot.blogspot.ch/)",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.0",
+    "xml2js": "^0.4.9"
+  }
+}
